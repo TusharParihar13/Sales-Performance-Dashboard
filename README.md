@@ -38,7 +38,7 @@ The Sales Performance Dashboard focuses on four main areas:
 -> **Customer Segment Contribution**
     Shows how much each customer segment contributes to total sales.
 
-    All visuals are fully interactive using slicers.
+        All visuals are fully interactive using slicers.
 
 **Tools & Skills Used**
 
@@ -75,8 +75,7 @@ The data was cleaned and standardized before analysis, and all dashboards are bu
 <img width="1321" height="617" alt="Dashboard_Sales" src="https://github.com/user-attachments/assets/a5c650c2-a378-4ca5-837e-cd8589cdf3d8" />
 
 
-**Key Insights
-**
+**Key Insights**
 Some of the insights uncovered from this dashboard:
 
 -> Technology products contribute the highest share of sales
