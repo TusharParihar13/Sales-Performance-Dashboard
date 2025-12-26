@@ -71,8 +71,7 @@ The data was cleaned and standardized before analysis, and all dashboards are bu
 
 **Dashboard Preview**
 
-<img width="1321" height="617" alt="Dashboard_Sales" src="https://github.com/user-attachments/assets/a5c650c2-a378-4ca5-837e-cd8589cdf3d8" />
-
+<img width="1321" height="612" alt="Sales_Dashboard" src="https://github.com/user-attachments/assets/1c135942-5c3d-4df5-80f7-4f2656a78dd0" />
 
 **Key Insights**
 
